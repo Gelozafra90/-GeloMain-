@@ -1,4 +1,4 @@
-// cypress/support/pages/simOnlyPlansPage.js
+// gelo test p1
 
 class SimOnlyPlansPage {
   constructor() {
