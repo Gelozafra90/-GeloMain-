@@ -1,4 +1,4 @@
-// cypress/e2e/compare_ui_api_labels.cy.js
+// gelo test for step 1
 
 import SimOnlyPlansPage from '../support/pages/simOnlyPlansPage';
 
