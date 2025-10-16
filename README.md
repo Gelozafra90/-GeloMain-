@@ -1,2 +1,2 @@
 # -GeloMain-
-for cypress purpose
+for cypress testing assessment
