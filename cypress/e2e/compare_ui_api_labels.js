@@ -1,4 +1,4 @@
-// gelo test p1
+// gelo test part1
 
 import SimOnlyPlansPage from '../support/pages/simOnlyPlansPage';
 
